@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+data/raw/
+data/*.db
+data/*.sqlite
+data/*.part
+data/*.gz
+!data/ortholog.db.gz
+data/*.gaf
+data/*.obo
